@@ -1,6 +1,8 @@
 # Excel-estoque-anal-tico
 Painel interativo em Excel para análise de estoque por categoria, com Tabela Dinâmica e gráficos analíticos.
 
+https://docs.google.com/spreadsheets/d/1XKS__JLtTOzGvZuPFlLt8HMGusgIVfli/edit?usp=drive_link&ouid=112014587822369798270&rtpof=true&sd=true
+
 # Painel de Estoque Interativo em Excel
 
 Este projeto apresenta um painel analítico desenvolvido em Excel para controle e visualização de estoque por categoria de produto. Utiliza Tabelas Dinâmicas e gráficos interativos para facilitar a tomada de decisão.
